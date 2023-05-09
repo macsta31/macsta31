@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macsta31
-- 👀 I’m interested in front end / full stack development
-- 🌱 I’m currently learning backend development
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently working as a Contract Software Developer at ISAIX technologies
 - 📫 How to reach me mackstathis@gmail.com
 
