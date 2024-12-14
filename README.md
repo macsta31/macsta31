@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @macsta31
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently working as a Contract Software Developer at ISAIX technologies
+- 👋 Hi, I’m Mack
+- 👀 I am a software engineer
+- 🌱 I’m currently working as a Software Engineer at Livewell Health
 - 📫 How to reach me mackstathis@gmail.com
 
